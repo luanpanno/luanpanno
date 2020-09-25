@@ -11,7 +11,7 @@ Welcome to my profile! Hope you find some useful stuff!
 - 💛 JavaScript Lover!
 - 🐧 Linux Lover since 2012!
 - 💻 Currently using Kubuntu 20.04. You can find my Linux Setup [here](https://github.com/luanpanno/linux-setup) (Setup for Ubuntu/Debian-based distro's)
-- 🌱 Always looking for improve my code skills and go deeper with React!
+- 🌱 Always looking to improve my code skills and go deeper with React!
 - 🤔 Always afraid about AIs steal our jobs
 - 📍 Rio de Janeiro, Brazil
 
