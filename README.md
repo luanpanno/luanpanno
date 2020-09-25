@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello! I'm Luan Panno
 
-<!--
-**luanpanno/luanpanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! Hope you find some useful stuff!
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-luanpanno-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanpanno/)](https://www.linkedin.com/in/luanpanno/) [![Website Badge](https://img.shields.io/badge/-luanpanno.codes-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://luanpanno.codes)](http://luanpanno.codes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- 🏢 Currently working at [Metatron](http://www.metatron.com.br/) as Front-End Developer!
+- ⌨️ `.js`, `.ts`, `.jsx`, `.tsx`
+- 💛 JavaScript Lover!
+- 🐧 Linux Lover since 2012!
+- 💻 Currently using Kubuntu 20.04. You can find my Linux Setup [here](https://github.com/luanpanno/linux-setup) (Setup for Ubuntu/Debian-based distro's)
+- 🌱 Always looking for improve my code skills and go deeper with React!
+- 🤔 Always afraid about AIs steal our jobs
+- 📍 Rio de Janeiro, Brazil
+
+![Desktop](https://i.imgur.com/Ms6nTKt.png)
