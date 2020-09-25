@@ -10,9 +10,9 @@ Welcome to my profile! Hope you find some useful stuff!
 - ⌨️ `.js`, `.ts`, `.jsx`, `.tsx`
 - 💛 JavaScript Lover!
 - 🐧 Linux Lover since 2012!
-- 💻 Currently using Kubuntu 20.04. You can find my Linux Setup [here](https://github.com/luanpanno/linux-setup) (Setup for Ubuntu/Debian-based distro's)
-- 🌱 Always looking to improve my code skills and go deeper with React!
-- 🤔 Always afraid about AIs steal our jobs
+- 💻 Currently using Kubuntu 20.04. You can find my Linux Setup [here](https://github.com/luanpanno/linux-setup) (Setup for Ubuntu/Debian-based distros)
+- 🌱 Always looking to improve my coding skills and go further with React!
+- 🤔 Always afraid of AIs steal our jobs
 - 📍 Rio de Janeiro, Brazil
 
-![Desktop](https://i.imgur.com/Ms6nTKt.png)
+![Desktop](https://i.imgur.com/KmT3bnD.png)
