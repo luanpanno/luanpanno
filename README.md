@@ -6,7 +6,7 @@ Welcome to my profile! Hope you find some useful stuff!
 
 ## About
 
-- 🏢 Currently working at [Metatron](http://www.metatron.com.br/) as Full Stack Developer!
+- 🏢 Currently working at [LovelyStay](https://www.lovelystay.com) as Front-End Developer!
 - ⌨️ `.js`, `.ts`, `.jsx`, `.tsx`, `.cs`
 - 🐧 Linux Lover since 2012!
 - 💻 Currently using Pop!\_OS 21.04. You can find my Linux Setup [here](https://github.com/luanpanno/linux-development-setup) (Setup for Ubuntu/Debian-based distros)
@@ -16,4 +16,4 @@ Welcome to my profile! Hope you find some useful stuff!
 
 ![Desktop](https://i.imgur.com/i2xdobm.png)
 
-Last update: 12/08/2021
+Last update: 02/12/2021
