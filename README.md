@@ -15,4 +15,4 @@ Welcome to my profile! Hope you find something useful!
 
 Last update: 08/30/2022
 
-![Desktop](https://i.imgur.com/FFLU7vI.jpg)
+![Desktop](https://i.imgur.com/daGW6jh.jpg)
