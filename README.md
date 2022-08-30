@@ -9,7 +9,7 @@ Welcome to my profile! Hope you find something useful!
 - 🏢 Currently working at [LovelyStay](https://www.lovelystay.com) as Front-End Developer!
 - ⌨️ mostly `.js`, `.ts`, `.jsx`, `.tsx`
 - 🐧 Linux Lover since 2012!
-- 💻 Currently using Pop!\_OS 22.04. You can find my Linux Setup [here](https://github.com/luanpanno/linux-development-setup) (Setup for Ubuntu/Debian-based distros)
+- 💻 Currently using Pop!\_OS 22.04 LTS. You can find my Linux Setup [here](https://github.com/luanpanno/linux-development-setup) (Setup for Ubuntu/Debian-based distros)
 - 🌱 Always looking to improve my coding skills and learn new stuff!
 - 📍 Rio de Janeiro, Brazil
 
