@@ -13,6 +13,7 @@ Welcome to my profile! Hope you find something useful!
 - 🌱 Always looking to improve my coding skills and learn new stuff!
 - 📍 Rio de Janeiro, Brazil
 
-Last update: 02/17/2023
+Last update: 19/02/2023
 
-![Desktop](https://i.imgur.com/daGW6jh.jpg)
+![Desktop](https://i.imgur.com/r6c0woZ.jpg)
+Wallpaper [here](https://hdqwalls.com/1920x1080/blade-runner-2049-wallpapers).
